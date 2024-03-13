@@ -1,3 +1,3 @@
 # Create Breakfast
 
-Create a plugin for [breakie.stream](https://breakie.stream).
+Create a plugin for [brekkie.stream](https://brekkie.stream).

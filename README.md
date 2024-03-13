@@ -2,7 +2,7 @@
 
 ## @sparklapse/breakfast
 
-The core functionality and process to [breakie.stream](https://breakie.stream)
+The core functionality and process to [brekkie.stream](https://brekkie.stream)
 
 ## create-breakfast
 
